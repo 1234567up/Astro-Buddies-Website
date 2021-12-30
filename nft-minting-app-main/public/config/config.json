@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1484cB26B6944f273452004b214d5Ae322745021",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1484cb26b6944f273452004b214d5ae322745021",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Astro Buddies NFT",
+  "SYMBOL": "ABNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/astro-buddies-nft",
+  "SHOW_BACKGROUND": true
+}
